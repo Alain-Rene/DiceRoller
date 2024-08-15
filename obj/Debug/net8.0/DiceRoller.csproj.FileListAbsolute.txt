@@ -1,0 +1,14 @@
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/bin/Debug/net8.0/DiceRoller
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/bin/Debug/net8.0/DiceRoller.deps.json
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/bin/Debug/net8.0/DiceRoller.runtimeconfig.json
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/bin/Debug/net8.0/DiceRoller.dll
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/bin/Debug/net8.0/DiceRoller.pdb
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.AssemblyInfoInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.AssemblyInfo.cs
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.csproj.CoreCompileInputs.cache
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.dll
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/refint/DiceRoller.dll
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.pdb
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/DiceRoller.genruntimeconfig.cache
+/Users/alainrene/Desktop/AugustWeek2/DiceRoller/obj/Debug/net8.0/ref/DiceRoller.dll
